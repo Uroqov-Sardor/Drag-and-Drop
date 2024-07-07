@@ -22,4 +22,4 @@ lists.forEach((idx) => {
       selected = null;
     });
   });
-});
+}); 
